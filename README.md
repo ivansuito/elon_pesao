@@ -2,6 +2,9 @@
 
 Pequeño script para Tampermonkey para eliminar el spam de descuento de twitter premium.
 
+<img width="450" height="260" alt="imagen" src="https://github.com/user-attachments/assets/47eae35d-83e7-4855-a9f3-398c367197ed" />
+
+
 Simplemente os descargáis la extensión de Tampermonkey, y le dais a agregar nuevo script:
 
 
